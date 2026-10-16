@@ -1,0 +1,7 @@
+# Berlaku untuk semua mesin pencari (Google, Bing, Yandex, Baidu, DuckDuckGo, dll.)
+User-agent: *
+Allow: /
+Disallow: /daftar
+
+# GANTI domain di bawah ini dengan domain Anda
+Sitemap: https://solucky.web.id/sitemap.xml
